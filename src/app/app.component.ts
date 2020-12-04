@@ -5,6 +5,7 @@ import { NgForm } from '@angular/forms';
 @Component({
   selector: 'app-root',
   template: `
+  <h1>Titolo</h1>
     <div class="container">
       <form
         class="card card-body mt-2"
